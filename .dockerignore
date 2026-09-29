@@ -1,0 +1,6 @@
+node_modules
+dist
+.git
+.dist-test
+npm-debug.log
+.DS_Store
